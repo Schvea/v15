@@ -1,0 +1,10 @@
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+.form-inline {
+    max-width: 300px;
+    width: 100%;
+    display: flex;
+}
