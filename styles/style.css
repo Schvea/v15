@@ -8,3 +8,7 @@ body {
     width: 100%;
     display: flex;
 }
+
+.btn{
+  width: 80px;
+}
