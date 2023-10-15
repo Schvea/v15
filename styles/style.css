@@ -12,3 +12,11 @@ body {
 .btn{
   width: 80px;
 }
+.txt{
+    width: 300px;
+    margin: auto;
+}
+.navbar{
+    /* width: 100%;
+    margin: auto; */
+}
